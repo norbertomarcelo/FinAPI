@@ -1,5 +1,9 @@
 # FinAPI - Financeira
 
+Api desenvolvida no primeiro capitulo da trilha NodeJS do bootcamp Ignite.
+
+---
+
 ## Requisitos
 
 - [x] Deve ser possível criar uma conta
